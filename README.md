@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lictincho and my name is Martín Ortega. Soy de Argentina pero pienso cambiar mi residencia a Europa en el futuro.
+- 👀 Soy Licenciado en Enfermería. Estoy interesado en aprender más y en algun futuro trabajar en esto.
+- 🌱 Estoy realizando cursos de Python y pienso seguir con programación web.
+- 📫 mrtn.bo@gmail.com
+- 
