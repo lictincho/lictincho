@@ -1,5 +1,5 @@
 - 👋 Hi, Mi nombre es Martín Ortega. Soy de Valencia, España.
 - 👀 Soy Licenciado en Enfermería pero estoy incursionando en la programación para en algun futuro trabajar en esto.
 - 💾 Por ahora de forma autodidacta: cursos de Python, Bash, algo de Ciencia de Datos... y continuando de a poco.
-- 📫 mrtn.bo@gmail.com
+- 📫 ortegamartin@outlook.com
 - 📫 [Linkedin](https://www.linkedin.com/in/martin-b-ortega/)
