@@ -3,3 +3,5 @@
 - 💾 Por ahora de forma autodidacta: cursos de Python, Bash, algo de Ciencia de Datos... y continuando de a poco.
 - 📫 ortegamartin@outlook.com
 - 📫 [Linkedin](https://www.linkedin.com/in/martin-b-ortega/)
+
+- (Comenzando con GitHub...)
